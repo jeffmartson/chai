@@ -23,7 +23,7 @@
   "homepage": "https://github.com/dosyago/documentspark#readme",
   "dependencies": {
     "compression": "latest",
-    "express": "latest",
+    "express": "4.20.0",
     "hasha": "latest",
     "multer": "latest",
     "pm2": "latest",
