@@ -22,10 +22,10 @@
   },
   "homepage": "https://github.com/dosyago/documentspark#readme",
   "dependencies": {
-    "compression": "latest",
+    "compression": "1.8.1",
     "express": "latest",
     "hasha": "latest",
-    "multer": "latest",
+    "multer": "2.0.2",
     "pm2": "latest",
     "serve-index": "latest"
   },
